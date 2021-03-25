@@ -11,11 +11,19 @@ public class RainMan {
     private int year;
     private int mmRain;
     
+	
+	
+	
     public RainMan() {
+
             
             // Hola bon dia
             int i=0;
             i++;
+
+		
+		//pillame esta crack
+
     }
 
     public int getDay() {
